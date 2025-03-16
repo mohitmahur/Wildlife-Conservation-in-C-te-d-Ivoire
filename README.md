@@ -8,7 +8,7 @@ This project helps scientists track wildlife in Côte d'Ivoire by using deep lea
 ## 📌 **Project Overview**  
 - **🎯 Objective:** Classify images from camera traps to identify animals.  
 - **📂 Dataset:** Images collected from Côte d'Ivoire wildlife reserves.  
-- **🛠 Tech Stack:** Python, TensorFlow/Keras, OpenCV, Scikit-learn.  
+- **🛠 Tech Stack:** Python, PyTorch, OpenCV, Scikit-learn.  
 
 ---
 
